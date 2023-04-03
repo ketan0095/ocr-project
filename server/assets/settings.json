@@ -1,0 +1,9 @@
+{
+    "FILE_TYPES":["png", "jpg", "jpeg", "tiff", "bmp", "heic"],
+    "Rectangle_color":{
+        "B":0,
+        "G":0,
+        "R":200
+    },
+    "Rectangle_thickness":4
+}
