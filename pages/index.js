@@ -178,7 +178,7 @@ export default function Home() {
               return (
                 <div
                   class="card mb-3"
-                  key={item[0]}
+                  key={item}
                   style={{ maxWidth: "1200px", marginBottom: "1rem" }}
                 >
                   <div class="row g-0">
